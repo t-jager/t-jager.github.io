@@ -16,7 +16,7 @@ Tel: +49-5251/60-6686<br/>
 Fax: +49-5251/60-6414<br/>
 <br/>
 If you want to send me encrypted e-mail, then please use my [PGP key](7443C884.asc).<br/>
-Alternatively, you can use my [keybase.io](https://keybase.io/encrypt#tjager) site. Keep in mind, though, that then the keybase.io *may* be able to read your message.<br/>
+Alternatively, you can use my [keybase.io](https://keybase.io/encrypt#tjager) site. Keep in mind, though, that the keybase.io *may* be able to read your message.<br/>
  
 
 ## Publications
