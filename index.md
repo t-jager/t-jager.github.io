@@ -1,4 +1,5 @@
-# Contact
+# Tibor Jager
+## Contact
 
 Prof. Dr.-Ing. Tibor Jager<br/>
 Paderborn University<br/>
@@ -18,9 +19,9 @@ If you want to send me encrypted e-mail, then please use my [PGP key](7443C884.a
 Alternatively, you can use my [keybase.io](https://keybase.io/encrypt#tjager) site. Keep in mind, though, that then the keybase.io *may* be able to read your message.<br/>
  
 
-# Publications
+## Publications
 
-## Recent
+### Recent
 
 
 Kristian Gjøsteen, Tibor Jager<br/>
@@ -29,7 +30,7 @@ Kristian Gjøsteen, Tibor Jager<br/>
 
 
 <!-- ********** CONFERENCES ********** -->
-## Peer-reviewed conference proceedings
+### Peer-reviewed conference proceedings
 
 
 David Derler, Tibor Jager, Daniel Slamanig, Christoph Striecks<br/>
@@ -227,7 +228,7 @@ Tibor Jager, J&ouml;rg Schwenk<br/>
 *Journal of Cryptology, 2013*
 
 
-## Books and Lecture Notes
+### Books and Lecture Notes
 
 
 Tibor Jager<br/>
