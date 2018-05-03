@@ -8,13 +8,14 @@ IT Security Group<br/>
 F&uuml;rstenallee 11<br/>
 33102 Paderborn, Germany<br/>
 <br/>
-My group web site at Paderborn University: <br/>
+<b>My group web site at Paderborn University:</b><br/>
 [https://cs.uni-paderborn.de/en/its/](https://cs.uni-paderborn.de/en/its/)
 <br/>
 Tel: +49-5251/60-6686<br/>
 Fax: +49-5251/60-6414<br/>
 <br/>
 E-Mail: <tt>tibor.jager(at)upb.de</tt><br/>
+<br/>
 If you want to send me encrypted e-mail, then please use my [PGP key](7443C884.asc).<br/>
 Alternatively, you can use my [keybase.io](https://keybase.io/encrypt#tjager) site. Keep in mind, though, that then the keybase.io *may* be able to read your message.<br/>
  
