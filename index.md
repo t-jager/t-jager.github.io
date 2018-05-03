@@ -1,4 +1,8 @@
 # Tibor Jager
+
+![Tibor Jager](https://www.tiborjager.de/Web2.jpg "Tibor Jager")
+
+
 ## Contact
 
 Prof. Dr.-Ing. Tibor Jager<br/>

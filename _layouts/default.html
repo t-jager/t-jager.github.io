@@ -16,9 +16,6 @@
       <header>
        <!-- <h1>{{ site.title | default: site.github.repository_name }}</h1>-->
         
-        {% if site.logo %}
-          <img src="{{site.logo | relative_url}}" alt="Logo" />
-        {% endif %}
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
         <p>
@@ -32,6 +29,10 @@ IT Security Group<br/>
 </p>
       </header>
       <section>
+        {% if site.logo %}
+          <img src="{{site.logo | relative_url}}" alt="Logo" />
+        {% endif %}
+
 
       {{ content }}
 
