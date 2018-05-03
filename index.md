@@ -222,6 +222,6 @@ Tibor Jager<br/>
 
 Tibor Jager<br/>
 [Digitale Signaturen](http://tiborjager.de/DigitaleSignaturen.pdf)<br/>
-*Textbooklike lecture notes, first version published in 2012, frequently updated*
+*Textbook-like lecture notes, first version published in 2012, frequently updated*
 
 
