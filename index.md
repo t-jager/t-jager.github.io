@@ -2,10 +2,6 @@
 
 ## Contact
 
-<table style="text-align: left;" border="0" cellpadding="0" cellspacing="0" width="100%">
-  <tbody>
-    <tr>
-      <td style="vertical-align: top;" width="70%">
 Prof. Dr.-Ing. Tibor Jager<br/>
 Paderborn University<br/>
 Faculty of Computer Science, Electrical Engineering and Mathematics<br/>
@@ -14,22 +10,15 @@ IT Security Group<br/>
 F&uuml;rstenallee 11<br/>
 33102 Paderborn, Germany<br/>
 <br/>
-<b>My group web site at Paderborn University: <a href = "https://cs.uni-paderborn.de/en/its/">https://cs.uni-paderborn.de/en/its/</a></b>
+<b>My group web site at Paderborn University: [https://cs.uni-paderborn.de/en/its/](https://cs.uni-paderborn.de/en/its/)
 <br/>
 Tel: +49-5251/60-6686<br/>
 Fax: +49-5251/60-6414<br/>
 <br/>
 E-Mail: <tt>tibor.jager(at)upb.de</tt><br/>
-If you want to send me encrypted e-mail, then please use my <a href="7443C884.asc">PGP key</a>.<br/>
-Alternatively, you can use my <a href="https://keybase.io/encrypt#tjager">keybase.io</a> site. Keep in mind, though, that your message may be readable by the keybase server.<br/>
-      </td>
-      <td style="vertical-align: top; text-align: center;">
-      	<!--<img style="width: 85px; height: 110px;" alt="Tibor" src="http://euklid.org/tiborjager.de.png.jpg">-->
-      	<img style="height: 375px; width: 250px;" alt="Tibor" src="Web2.jpg">
-      </td>
-    </tr>
-  </tbody>
-</table>
+If you want to send me encrypted e-mail, then please use my [PGP key](7443C884.asc).<br/>
+Alternatively, you can use my [keybase.io](https://keybase.io/encrypt#tjager) site. Keep in mind, though, that then the keybase.io *may* be able to read your message.<br/>
+ 
 
 ## Publications
 
