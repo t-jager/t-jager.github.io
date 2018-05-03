@@ -8,8 +8,8 @@
 ### Recent
 
 
-Kristian Gjøsteen, Tibor Jager
-[Practical and Tightly-Secure Digital Signatures and Authenticated Key Exchange]()
+Kristian Gjøsteen, Tibor Jager<br/>
+[Practical and Tightly-Secure Digital Signatures and Authenticated Key Exchange]()<br/>
 *38th International Cryptology Conference - CRYPTO 2018*
 
 
