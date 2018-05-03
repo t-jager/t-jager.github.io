@@ -10,7 +10,8 @@ IT Security Group<br/>
 F&uuml;rstenallee 11<br/>
 33102 Paderborn, Germany<br/>
 <br/>
-My group web site at Paderborn University: [https://cs.uni-paderborn.de/en/its/](https://cs.uni-paderborn.de/en/its/)
+My group web site at Paderborn University: <br/>
+[https://cs.uni-paderborn.de/en/its/](https://cs.uni-paderborn.de/en/its/)
 <br/>
 Tel: +49-5251/60-6686<br/>
 Fax: +49-5251/60-6414<br/>
