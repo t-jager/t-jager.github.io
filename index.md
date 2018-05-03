@@ -3,26 +3,6 @@
 ![Tibor Jager](https://www.tiborjager.de/Web2.jpg "Tibor Jager")
 
 
-## Contact
-
-Prof. Dr.-Ing. Tibor Jager<br/>
-Paderborn University<br/>
-Faculty of Computer Science, Electrical Engineering and Mathematics<br/>
-Department of Computer Science<br/>
-IT Security Group<br/>
-Fürstenallee 11<br/>
-33102 Paderborn, Germany<br/>
-<br/>
-<b>My group web site at Paderborn University:</b><br/>
-[https://cs.uni-paderborn.de/en/its/](https://cs.uni-paderborn.de/en/its/)
-<br/>
-Tel: +49-5251/60-6686<br/>
-Fax: +49-5251/60-6414<br/>
-<br/>
-If you want to send me encrypted e-mail, then please use my [PGP key](7443C884.asc).<br/>
-Alternatively, you can use my [keybase.io](https://keybase.io/encrypt#tjager) site. Keep in mind, though, that the keybase.io *may* be able to read your message.<br/>
- 
-
 ## Publications
 
 ### Recent
