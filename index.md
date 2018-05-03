@@ -6,7 +6,7 @@ Paderborn University<br/>
 Faculty of Computer Science, Electrical Engineering and Mathematics<br/>
 Department of Computer Science<br/>
 IT Security Group<br/>
-F&uuml;rstenallee 11<br/>
+Fürstenallee 11<br/>
 33102 Paderborn, Germany<br/>
 <br/>
 <b>My group web site at Paderborn University:</b><br/>
