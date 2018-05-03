@@ -25,9 +25,9 @@ Alternatively, you can use my [keybase.io](https://keybase.io/encrypt#tjager) si
 ## Recent
 
 
-Tibor Jager, Rafael Kurek<br/>
-[Continuous Collision Resistance and its Applications](http://eprint.iacr.org/2017/061)<br/>
-*Cryptology ePrint Archive, Report 2017/061*
+Kristian Gjøsteen, Tibor Jager<br/>
+[Practical and Tightly-Secure Digital Signatures and Authenticated Key Exchange]()<br/>
+*38th International Cryptology Conference - CRYPTO 2018*
 
 
 <!-- ********** CONFERENCES ********** -->
