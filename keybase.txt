@@ -1,0 +1,55 @@
+==================================================================
+https://keybase.io/tjager
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://tiborjager.de
+  * I am tjager (https://keybase.io/tjager) on keybase.
+  * I have a public key ASBw8UHjYhWTW-849uBgH7Sxo1WTMgvm4ZFyUEpt0FVN7Ao
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012070f141e36215935bef38f6e0601fb4b1a35593320be6e19172504a6dd0554dec0a",
+      "host": "keybase.io",
+      "kid": "012070f141e36215935bef38f6e0601fb4b1a35593320be6e19172504a6dd0554dec0a",
+      "uid": "9f24041a5b5de869942017363d36ae19",
+      "username": "tjager"
+    },
+    "merkle_root": {
+      "ctime": 1507812199,
+      "hash": "e4ecfdb21a35074ddda8c0cc977d530edc0535583c3f57ade433f38d736c8ab08553fbffd1ebf5db5e600e73a26cbb22485b16822f99460256242c5a695fa431",
+      "hash_meta": "79ed673423de079fc4ee9b6c5c05e5a7836d569c414b5a9466b08ab8c89f5735",
+      "seqno": 1564993
+    },
+    "service": {
+      "hostname": "tiborjager.de",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.33"
+  },
+  "ctime": 1507812218,
+  "expire_in": 504576000,
+  "prev": "0cbc3fe14ff6dcb0655acb99ba77d4fe6677eb875def9cef9286c3eb78ff5567",
+  "seqno": 20,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgcPFB42IVk1vvOPbgYB+0saNVkzIL5uGRclBKbdBVTewKp3BheWxvYWTFA0N7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwNzBmMTQxZTM2MjE1OTM1YmVmMzhmNmUwNjAxZmI0YjFhMzU1OTMzMjBiZTZlMTkxNzI1MDRhNmRkMDU1NGRlYzBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwNzBmMTQxZTM2MjE1OTM1YmVmMzhmNmUwNjAxZmI0YjFhMzU1OTMzMjBiZTZlMTkxNzI1MDRhNmRkMDU1NGRlYzBhIiwidWlkIjoiOWYyNDA0MWE1YjVkZTg2OTk0MjAxNzM2M2QzNmFlMTkiLCJ1c2VybmFtZSI6InRqYWdlciJ9LCJtZXJrbGVfcm9vdCI6eyJjdGltZSI6MTUwNzgxMjE5OSwiaGFzaCI6ImU0ZWNmZGIyMWEzNTA3NGRkZGE4YzBjYzk3N2Q1MzBlZGMwNTM1NTgzYzNmNTdhZGU0MzNmMzhkNzM2YzhhYjA4NTUzZmJmZmQxZWJmNWRiNWU2MDBlNzNhMjZjYmIyMjQ4NWIxNjgyMmY5OTQ2MDI1NjI0MmM1YTY5NWZhNDMxIiwiaGFzaF9tZXRhIjoiNzllZDY3MzQyM2RlMDc5ZmM0ZWU5YjZjNWMwNWU1YTc4MzZkNTY5YzQxNGI1YTk0NjZiMDhhYjhjODlmNTczNSIsInNlcW5vIjoxNTY0OTkzfSwic2VydmljZSI6eyJob3N0bmFtZSI6InRpYm9yamFnZXIuZGUiLCJwcm90b2NvbCI6Imh0dHA6In0sInR5cGUiOiJ3ZWJfc2VydmljZV9iaW5kaW5nIiwidmVyc2lvbiI6MX0sImNsaWVudCI6eyJuYW1lIjoia2V5YmFzZS5pbyBnbyBjbGllbnQiLCJ2ZXJzaW9uIjoiMS4wLjMzIn0sImN0aW1lIjoxNTA3ODEyMjE4LCJleHBpcmVfaW4iOjUwNDU3NjAwMCwicHJldiI6IjBjYmMzZmUxNGZmNmRjYjA2NTVhY2I5OWJhNzdkNGZlNjY3N2ViODc1ZGVmOWNlZjkyODZjM2ViNzhmZjU1NjciLCJzZXFubyI6MjAsInRhZyI6InNpZ25hdHVyZSJ9o3NpZ8RAAItFMB8mxcKnG/I6MtfY31hKemH3/lEzlDU9gsyX6pHqYyzBiHT8vhAUdyt/QX+Y0dscfBTeTs9P6R2hlw14AKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIOq7z+praf0LAPuSEh+sGLZkuaZt/dNXaMTZsB3PGjzyo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/tjager
+
+==================================================================
