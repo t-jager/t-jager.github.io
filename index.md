@@ -99,7 +99,7 @@ Nils Fleischhacker, Tibor Jager, Dominique Schr&ouml;der<br/>
 
 
 Florian B&ouml;hl, Dennis Hofheinz, Tibor Jager, Jessica Koch, Jae Hong Seo, Christoph Striecks<br/>
-[Practical Signatures From Standard Assumptions](https://link.springer.com/chapter/10.1007/978-3-642-38348-9_28), [see also](https://eprint.iacr.org/2013/171)<br/>
+[Practical Signatures From Standard Assumptions](https://link.springer.com/chapter/10.1007/978-3-642-38348-9_28), see also [this version](https://eprint.iacr.org/2013/171)<br/>
 *32nd Annual International Conference on the Theory and Applications of Cryptographic Techniques - EUROCRYPT 2013*
 
 
