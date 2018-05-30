@@ -18,7 +18,7 @@ Kristian Gjøsteen, Tibor Jager<br/>
 
 
 David Derler, Tibor Jager, Daniel Slamanig, Christoph Striecks<br/>
-[Bloom Filter Encryption and Applications to Efficient Forward-Secret 0-RTT Key Exchange]()<br/>
+[Bloom Filter Encryption and Applications to Efficient Forward-Secret 0-RTT Key Exchange](https://eprint.iacr.org/2018/199)<br/>
 *37th Annual International Conference on the Theory and Applications of Cryptographic Techniques - EUROCRYPT 2018*
 
 
