@@ -9,7 +9,7 @@
 
 
 Kristian Gjøsteen, Tibor Jager<br/>
-[Practical and Tightly-Secure Digital Signatures and Authenticated Key Exchange]()<br/>
+[Practical and Tightly-Secure Digital Signatures and Authenticated Key Exchange](https://eprint.iacr.org/2018/543)<br/>
 *38th International Cryptology Conference - CRYPTO 2018*
 
 
