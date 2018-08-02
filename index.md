@@ -4,7 +4,7 @@
 * [ERC Starting Grant: REWOCRYPT](https://www.uni-paderborn.de/en/nachricht/87450/)
 * [DFG: Low Latency Key Exchange](http://gepris.dfg.de/gepris/projekt/290131697)
 * [DFG: Tight Security](http://gepris.dfg.de/gepris/projekt/265919409)
-* [NERD: Secure Instant Messaging](https://nerd.nrw/)
+* [NERD: Secure Instant Messaging](https://nerd.nrw/de/forschungstandems/im-protokolle/)
 * [BMBF: Time Lock Encryption (REZEIVER)](https://www.forschung-it-sicherheit-kommunikationssysteme.de/projekte/copy2_of_overview)
 * [DFG: SFB 901 On-The-Fly Computing](https://sfb901.uni-paderborn.de/)
 
