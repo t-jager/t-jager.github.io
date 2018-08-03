@@ -1,4 +1,4 @@
-## Research Projects
+## Current Research Projects
 
 
 * [ERC Starting Grant: REWOCRYPT](https://www.uni-paderborn.de/en/nachricht/87450/)
