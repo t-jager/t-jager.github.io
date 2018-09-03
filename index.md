@@ -20,6 +20,15 @@ Tibor Jager, Saqib A. Kakvi, Alexander May<br/>
 [On the Security of the PKCS#1 v1.5 Signature Scheme]()<br/>
 *25th ACM Conference on Computer and Communications Security - ACM CCS 2018*
 
+Tibor Jager, Rafael Kurek<br/>
+[Short Digital Signatures and ID-KEMs via Truncation Collision Resistance]()<br/>
+*24th Annual International Conference on the Theory and Applications of Cryptology and Information Security - ASIACRYPT 2018*
+
+Tibor Jager, Rafael Kurek, Jiaxin Pan<br/>
+[Simple and More Efficient PRFs with Tight Security from LWE and Matrix-DDH]()<br/>
+*24th Annual International Conference on the Theory and Applications of Cryptology and Information Security - ASIACRYPT 2018*
+
+
 
 <!-- ********** CONFERENCES ********** -->
 ### Peer-reviewed conference proceedings
