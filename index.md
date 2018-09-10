@@ -21,11 +21,11 @@ Tibor Jager, Saqib A. Kakvi, Alexander May<br/>
 *25th ACM Conference on Computer and Communications Security - ACM CCS 2018*
 
 Tibor Jager, Rafael Kurek<br/>
-[Short Digital Signatures and ID-KEMs via Truncation Collision Resistance]()<br/>
+[Short Digital Signatures and ID-KEMs via Truncation Collision Resistance](https://eprint.iacr.org/2017/061)<br/>
 *24th Annual International Conference on the Theory and Applications of Cryptology and Information Security - ASIACRYPT 2018*
 
 Tibor Jager, Rafael Kurek, Jiaxin Pan<br/>
-[Simple and More Efficient PRFs with Tight Security from LWE and Matrix-DDH]()<br/>
+[Simple and More Efficient PRFs with Tight Security from LWE and Matrix-DDH](https://eprint.iacr.org/2018/826)<br/>
 *24th Annual International Conference on the Theory and Applications of Cryptology and Information Security - ASIACRYPT 2018*
 
 
