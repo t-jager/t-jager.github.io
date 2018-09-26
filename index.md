@@ -17,7 +17,7 @@
 
 
 Tibor Jager, Saqib A. Kakvi, Alexander May<br/>
-[On the Security of the PKCS#1 v1.5 Signature Scheme]()<br/>
+[On the Security of the PKCS#1 v1.5 Signature Scheme](https://eprint.iacr.org/2018/855)<br/>
 *25th ACM Conference on Computer and Communications Security - ACM CCS 2018*
 
 Tibor Jager, Rafael Kurek<br/>
