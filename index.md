@@ -16,7 +16,6 @@
 <!-- ********** CONFERENCES ********** -->
 ### Peer-reviewed conference proceedings
 
-#### 2018
 Tibor Jager, Saqib A. Kakvi, Alexander May<br/>
 [On the Security of the PKCS#1 v1.5 Signature Scheme](https://eprint.iacr.org/2018/855)<br/>
 *25th ACM Conference on Computer and Communications Security - ACM CCS 2018*
@@ -37,7 +36,6 @@ Kristian Gjøsteen, Tibor Jager<br/>
 David Derler, Tibor Jager, Daniel Slamanig, Christoph Striecks<br/>
 [Bloom Filter Encryption and Applications to Efficient Forward-Secret 0-RTT Key Exchange](https://eprint.iacr.org/2018/199)<br/>
 *37th Annual International Conference on the Theory and Applications of Cryptographic Techniques - EUROCRYPT 2018*
-
 
 Tibor Jager, Martijn Stam, Ryan Stanley-Oakes, Bogdan Warinschi<br/>
 [Multi-Key Authenticated Encryption with Corruptions: Reductions are Lossy](https://eprint.iacr.org/2017/495)<br/>
