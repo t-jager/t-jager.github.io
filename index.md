@@ -81,6 +81,7 @@ Dennis Hofheinz, Tibor Jager<br/>
 Tibor Jager, J&ouml;rg Schwenk, Juraj Somorovsky<br/>
 [On the Security of TLS 1.3 and QUIC Against Weaknesses in PKCS#1 v1.5 Encryption](http://dl.acm.org/citation.cfm?id=2813657)<br/>
 *22nd ACM Conference on Computer and Communications Security - ACM CCS 2015*
+**Received the [Best Contribution to the IETF Award](https://www.ietfjournal.org/tron-workshop-connects-ietf-tls-engineers-and-security-researchers/) for outstanding research contributions benefitting the IETF TLS working group efforts to develop TLS 1.3. Presented at the IETF TLS 1.3 - Ready or Not? Workshop, February 21, 2016, San Diego, CA, USA**
 
 
 Tibor Jager, J&ouml;rg Schwenk, Juraj Somorovsky<br/>
@@ -191,7 +192,11 @@ Kristina Altmann, Tibor Jager, Andy Rupp<br/>
 
 
 ### Journals
- 
+
+Nils Fleischhacker, Tibor Jager, Dominique Schr&ouml;der<br/>
+[On Tight Security Proofs for Schnorr Signatures](https://eprint.iacr.org/2013/418)<br/>
+*Journal of Cryptology, 2019*
+
 Jia Liu, Tibor Jager, Saqib A. Kakvi, Bogdan Warinschi<br/>
 [How to Build Time-Lock Encryption](https://link.springer.com/article/10.1007/s10623-018-0461-x)<br/>
 *Designs, Codes and Cryptography, 2018*
