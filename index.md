@@ -80,7 +80,7 @@ Dennis Hofheinz, Tibor Jager<br/>
 Tibor Jager, J&ouml;rg Schwenk, Juraj Somorovsky<br/>
 **[On the Security of TLS 1.3 and QUIC Against Weaknesses in PKCS#1 v1.5 Encryption](http://dl.acm.org/citation.cfm?id=2813657)**<br/>
 *22nd ACM Conference on Computer and Communications Security - ACM CCS 2015*<br/>
-Received the **[Best Contribution to the IETF Award](https://www.ietfjournal.org/tron-workshop-connects-ietf-tls-engineers-and-security-researchers/)** for outstanding research contributions benefitting the IETF TLS working group efforts to develop TLS 1.3. Presented at the IETF TLS 1.3 - Ready or Not? Workshop, February 21, 2016, San Diego, CA, USA.
+<small>Received the **[Best Contribution to the IETF Award](https://www.ietfjournal.org/tron-workshop-connects-ietf-tls-engineers-and-security-researchers/)** for outstanding research contributions benefitting the IETF TLS working group efforts to develop TLS 1.3. Presented at the IETF TLS 1.3 - Ready or Not? Workshop, February 21, 2016, San Diego, CA, USA.</small>
 
 
 Tibor Jager, J&ouml;rg Schwenk, Juraj Somorovsky<br/>
