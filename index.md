@@ -15,6 +15,10 @@
 <!-- ********** CONFERENCES ********** -->
 ### Peer-reviewed conference proceedings
 
+Nimrod Aviram, Kai Gellert, Tibor Jager<br/>
+**[Session Resumption Protocols and Efficient Forward Security for TLS 1.3 0-RTT]()**<br/>
+*38th Annual International Conference on the Theory and Applications of Cryptographic Techniques - EUROCRYPT 2019*
+
 Tibor Jager, Saqib A. Kakvi, Alexander May<br/>
 **[On the Security of the PKCS#1 v1.5 Signature Scheme](https://eprint.iacr.org/2018/855)**<br/>
 *25th ACM Conference on Computer and Communications Security - ACM CCS 2018*
