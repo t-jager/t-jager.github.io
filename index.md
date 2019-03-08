@@ -16,7 +16,7 @@
 ### Peer-reviewed conference proceedings
 
 Nimrod Aviram, Kai Gellert, Tibor Jager<br/>
-**[Session Resumption Protocols and Efficient Forward Security for TLS 1.3 0-RTT]()**<br/>
+**[Session Resumption Protocols and Efficient Forward Security for TLS 1.3 0-RTT](https://eprint.iacr.org/2019/228)**<br/>
 *38th Annual International Conference on the Theory and Applications of Cryptographic Techniques - EUROCRYPT 2019*
 
 Tibor Jager, Saqib A. Kakvi, Alexander May<br/>
