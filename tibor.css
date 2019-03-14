@@ -1,0 +1,61 @@
+body {
+    background-color: #202020;
+    font: normal 16px/1 "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+    color: #F5F5F5;
+    margin:0 auto;
+    width:640px;
+}
+
+.box {
+  display: flex;
+}
+
+.textbox {
+  flex: 1;
+}
+
+.figurebox {
+  text-align: right;
+  width: 210px;
+}
+
+
+#table-of-contents h2 {
+    color: #4775d1;
+}
+
+
+h1 {
+  color: #4775d1;
+}
+
+h2 {
+  color: #7094db;
+}
+
+h3 {
+  color: #adc2eb;
+}
+
+a:link {
+  color: #BEBEBE;
+  /*text-decoration: none;*/
+}
+
+/* visited link */
+a:visited {
+  color: #BEBEBE;
+  /*text-decoration: none;*/
+}
+
+/* mouse over link */
+a:hover {
+  color: #adc2eb;
+  text-decoration: none;
+}
+
+/* selected link */
+a:active {
+  color: #adc2eb;
+  text-decoration: none;
+}
