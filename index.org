@@ -1,3 +1,4 @@
+# -*-mode: org; coding: utf-8; -*-
 #+OPTIONS: html-style:nil num:nil toc:nil author:nil html-postamble:nil \n:t
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="tibor.css" />
 #+HTML_HEAD: <link rel="icon" href="favicon.ico" type="image/x-icon"/>
@@ -52,6 +53,10 @@ Here is my [[https://www.tiborjager.de/7443C884.asc][PGP key]], or use my [[http
 --------------------------------------------------------------------------------
 ** Peer-Reviewed Conference Proceedings
 *** 2019
+Cas Cremers, Katriel Cohn-Gordon, Kristian Gjøsteen, Håkon Jacobsen, Tibor Jager
+[[https://www.tiborjager.de][Highly Efficient Key Exchange Protocols with Optimal Tightness]]
+/39th International Cryptology Conference - CRYPTO 2019/
+
 Nimrod Aviram, Kai Gellert, Tibor Jager
 [[https://eprint.iacr.org/2019/228][Session Resumption Protocols and Efficient Forward Security for TLS 1.3 0-RTT]]
 /38th Annual International Conference on the Theory and Applications of Cryptographic Techniques - EUROCRYPT 2019/
@@ -167,7 +172,7 @@ Dennis Hofheinz and Tibor Jager
 [[https://eprint.iacr.org/2012/311][Tightly secure signatures and public-key encryption]]
 /32nd International Cryptology Conference - CRYPTO 2012/
 
-Tibor Jager, Florian Kohlar, Sven Schäge, Jörg Schwenk
+Tibor Jager, Florian Kohlar, Sven SchÃ¤ge, Jörg Schwenk
 [[https://eprint.iacr.org/2011/219][On the security of TLS-DHE in the standard model]]
 /32nd International Cryptology Conference - CRYPTO 2012/
 
