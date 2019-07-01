@@ -54,7 +54,7 @@ Here is my [[https://www.tiborjager.de/7443C884.asc][PGP key]], or use my [[http
 ** Peer-Reviewed Conference Proceedings
 *** 2019
 Cas Cremers, Katriel Cohn-Gordon, Kristian Gjøsteen, Håkon Jacobsen, Tibor Jager
-[[https://www.tiborjager.de][Highly Efficient Key Exchange Protocols with Optimal Tightness]]
+[[https://eprint.iacr.org/2019/737][Highly Efficient Key Exchange Protocols with Optimal Tightness]]
 /39th International Cryptology Conference - CRYPTO 2019/
 
 Nimrod Aviram, Kai Gellert, Tibor Jager
