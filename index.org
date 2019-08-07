@@ -53,6 +53,15 @@ Here is my [[https://www.tiborjager.de/7443C884.asc][PGP key]], or use my [[http
 --------------------------------------------------------------------------------
 ** Peer-Reviewed Conference Proceedings
 *** 2019
+
+Moritz Schulze Darup, Tibor Jager
+[[https://www.tiborjager.de][Encrypted Cloud-based Control using Secret Sharing with One-time Pads]]
+/58th Conference on Decision and Control - CDC 2019/
+
+Tibor Jager, David Niehues
+[[https://www.tiborjager.de][On the Real-World Instantiability of Admissible Hash Functions and Efficient Verifiable Random Functions]]
+/Selected Areas in Cryptography - SAC 2019 - 26th International Conference/
+
 Cas Cremers, Katriel Cohn-Gordon, Kristian Gjøsteen, Håkon Jacobsen, Tibor Jager
 [[https://eprint.iacr.org/2019/737][Highly Efficient Key Exchange Protocols with Optimal Tightness]]
 /39th International Cryptology Conference - CRYPTO 2019/
