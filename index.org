@@ -14,15 +14,16 @@
 
 #+begin_box
 #+begin_textbox
-Security and Cryptography Researcher
+Cryptography and IT Security Researcher
 
-Professor of IT Security
-Paderborn University 
+Professor of IT Security and Cryptography
+University of Wuppertal
 
-E-Mail: tibor.jager(at)upb.de
+E-Mail: jager(at)uni-wuppertal.de
+
 My [[https://cs.uni-paderborn.de/en/its/][group web site]] at Paderborn University
 
-Here is my [[https://www.tiborjager.de/7443C884.asc][PGP key]], or use my [[https://keybase.io/encrypt#tjager][keybase page]] to encrypt your message
+Here is my [[https://www.tiborjager.de/7443C884.asc][PGP key]]
 
 #+end_textbox
 #+begin_figurebox
