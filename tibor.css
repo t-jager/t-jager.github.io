@@ -1,7 +1,5 @@
 body {
-    background-color: #202020;
     font: normal 16px/1 "Lucida Sans Unicode", "Lucida Grande", sans-serif;
-    color: #F5F5F5;
     margin:0 auto;
     width:640px;
    line-height: 1.2;
@@ -31,21 +29,21 @@ h1 {
 }
 
 h2 {
-  color: #7094db;
+  color: #4775d1;
 }
 
 h3 {
-  color: #adc2eb;
+  color: #4775d1;
 }
 
 a:link {
-  color: #BEBEBE;
+  color: #000000;
   /*text-decoration: none;*/
 }
 
 /* visited link */
 a:visited {
-  color: #BEBEBE;
+  color: #000000;
   /*text-decoration: none;*/
 }
 
