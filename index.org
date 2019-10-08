@@ -21,7 +21,8 @@ University of Wuppertal
 
 E-Mail: tibor.jager(at)uni-wuppertal.de
 
-My [[https://cs.uni-paderborn.de/en/its/][group web site]] at Paderborn University
+My new [[http://itsc.uni-wuppertal.de][group web site]] at Bergische Universität Wuppertal
+My old [[https://cs.uni-paderborn.de/en/its/][group web site]] at Paderborn University
 
 Here is my [[https://www.tiborjager.de/7443C884.asc][PGP key]]
 
@@ -45,9 +46,7 @@ Here is my [[https://www.tiborjager.de/7443C884.asc][PGP key]]
 - [[http://gepris.dfg.de/gepris/projekt/265919409][DFG: Tight Security]]
 - [[https://sfb901.uni-paderborn.de/][DFG: SFB 901 On-The-Fly Computing]]
 - [[https://www.forschung-it-sicherheit-kommunikationssysteme.de/projekte/copy2_of_overview ][BMBF: Time Lock Encryption (REZEIVER)]]
-- [[https://tiborjager.de][BMWi: KMU. Einfach Sicher.]]
 - [[https://nerd.nrw/de/forschungstandems/im-protokolle/][MKW NRW: NERD - Secure Instant Messaging]]
-- [[https://www.sicp.de/nachricht/news/kick-off-iap/][MWIDE NRW: Industrial Automation Platform for Big Data - IAP]]
 
 --------------------------------------------------------------------------------
 * Publications
